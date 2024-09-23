@@ -1,0 +1,86 @@
+[
+  {
+    "nome": "Myrtice",
+    "idade": 22,
+    "cpf": "98557498545",
+    "telefones": [
+      "993.253.8557 x60645",
+      "525.884.2855 x55649"
+    ],
+    "endereco": {
+      "rua": "3519 Franklin Avenue",
+      "numero": 264,
+      "complemento": ""
+    }
+  },
+  {
+    "nome": "Winfield",
+    "idade": 31,
+    "cpf": "94579051978",
+    "telefones": [
+      "628.906.5708 x7942",
+      "(360) 204-2104 x185"
+    ],
+    "endereco": {
+      "rua": "96805 Nitzsche Shores",
+      "numero": 189,
+      "complemento": ""
+    }
+  },
+  {
+    "nome": "Precious",
+    "idade": 50,
+    "cpf": "05203942975",
+    "telefones": [
+      "505-666-4591",
+      "313-586-4470 x384"
+    ],
+    "endereco": {
+      "rua": "5793 Cross Street",
+      "numero": 235,
+      "complemento": ""
+    }
+  },
+  {
+    "nome": "Cordia",
+    "idade": 30,
+    "cpf": "54166188813",
+    "telefones": [
+      "(893) 540-6598",
+      "520-257-6233 x44904"
+    ],
+    "endereco": {
+      "rua": "3423 W 6th Avenue",
+      "numero": 313,
+      "complemento": ""
+    }
+  },
+  {
+    "nome": "Carolyn",
+    "idade": 22,
+    "cpf": "98495776776",
+    "telefones": [
+      "1-331-923-7749 x997",
+      "1-988-585-1436"
+    ],
+    "endereco": {
+      "rua": "9375 E Broad Street",
+      "numero": 237,
+      "complemento": ""
+    }
+  },
+  {
+    "nome": "Theodore",
+    "idade": 22,
+    "cpf": "11179015726",
+    "telefones": [
+      "1-222-620-3333 x8754",
+      "1-462-4444-4444"
+    ],
+    "endereco": {
+      "rua": "11 Torn Ben",
+      "numero": 11,
+      "complemento": ""
+    }
+  }
+]
